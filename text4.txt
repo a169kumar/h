@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A870-29A6
+
+ Directory of C:\Users\Amit Kumar\Desktop\Project
+
+09-07-2020  05:03    <DIR>          .
+09-07-2020  05:03    <DIR>          ..
+09-07-2020  03:54                44 index.html
+12-06-2020  12:12                 8 test1.txt
+12-06-2020  15:49                34 test2.txt
+09-07-2020  03:54                 8 text3.txt
+09-07-2020  05:03                 0 text4.txt
+               5 File(s)             94 bytes
+               2 Dir(s)  22,045,687,808 bytes free
